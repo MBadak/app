@@ -3,5 +3,6 @@ public class Oyun2 {
 // üzerinde calisildi
 
     // git
+// github olusturdum ve cok kod yazdi
 
 }
